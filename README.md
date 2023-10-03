@@ -5,10 +5,10 @@ Notebooks for the Julia tutorial talk for the MSG group at Courant.
 ## What base tutorial covers
 0. Monte Carlo Example
 1. Variable assignment
-2. Types and Traits
 3. Functions/Structs
-4. Multiple Dispatch
-5. Linear algebra
+4. Types
+5. Multiple Dispatch
+6. Linear algebra
 
 ## What macros.ipynb covers
 
