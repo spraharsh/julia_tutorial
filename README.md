@@ -10,10 +10,6 @@ Notebooks for the Julia tutorial talk for the MSG group at Courant.
 5. Multiple Dispatch
 6. Linear algebra
 
-## What macros.ipynb covers
-
-1. Why metaprogramming in scientific computing
-2. Energy calculation example
 ## what useful_packages.ipynb covers
 
 1. DifferentialEquations.jl (ODEs)
