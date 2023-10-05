@@ -24,3 +24,6 @@ For criticism see
 
 1. For Jax vs Julia see [this post](https://kidger.site/thoughts/jax-vs-julia/) by Patrick Kidger.
 2. If you're trying to compose together something novel, be careful about [correctness issues](https://yuri.is/not-julia/) (although personally I haven't encountered these, because I haven't tried putting packages together in novel ways).
+
+
+[Link](https://slides.com/praharshsuryadevara/research-updates-a232f0/fullscreen) to the slides in the beginning
