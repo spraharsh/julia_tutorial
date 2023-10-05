@@ -9,6 +9,7 @@ Notebooks for the Julia tutorial talk for the MSG group at Courant.
 4. Types
 5. Multiple Dispatch
 6. Linear algebra
+7. Calling python from Julia
 
 ## what useful_packages.ipynb covers
 
