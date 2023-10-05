@@ -13,4 +13,9 @@ Notebooks for the Julia tutorial talk for the MSG group at Courant.
 ## what useful_packages.ipynb covers
 
 1. DifferentialEquations.jl (ODEs)
-2. Jump.jl (Optimization)
+2. Optim.jl (Optimization)
+
+
+Check out also [metaprogramming.ipynb](https://github.com/stevengj/Julia-EuroSciPy14/blob/master/Metaprogramming.ipynb) by Steven G. Johnson.
+
+
